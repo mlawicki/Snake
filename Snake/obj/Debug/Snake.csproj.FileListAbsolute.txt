@@ -1,0 +1,9 @@
+C:\Users\DOBRI\Desktop\programy csharp\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\DOBRI\Desktop\programy csharp\Snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\DOBRI\Desktop\programy csharp\Snake\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\DOBRI\Desktop\programy csharp\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\DOBRI\Desktop\programy csharp\Snake\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\DOBRI\Desktop\programy csharp\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\DOBRI\Desktop\programy csharp\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\DOBRI\Desktop\programy csharp\Snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\DOBRI\Desktop\programy csharp\Snake\Snake\Snake\obj\Debug\Snake.pdb
